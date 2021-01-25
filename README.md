@@ -1,5 +1,5 @@
 **New: [wireguard-install](https://github.com/Nyr/wireguard-install) is also available.**
-
+https://www.youtube.com/watch?v=l-XcmGLBjIY
 ## openvpn-install
 OpenVPN [road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29) installer for Ubuntu, Debian, CentOS and Fedora.
 
